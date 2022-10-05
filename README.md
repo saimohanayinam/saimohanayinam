@@ -1,5 +1,10 @@
+![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)
+
 # 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 💓 I'm currently working on React js, firebase<br>🏫 I'm looking to collaborate on react js<br>🆘 I'm looking for help with react native and backend<br>💪 I'm currently learning backend and react native<br>🗣️ Ask me about anything<br>🎈Fun fact studied aerospace
+
 
 
 ## 🌐 Socials:
